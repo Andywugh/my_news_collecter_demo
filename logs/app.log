@@ -1,0 +1,205 @@
+2024-11-28 05:51:34 | DEBUG | product_hunt_client:export_top_products:92 - 准备导出Product Hunt的热门产品。
+2024-11-28 05:51:34 | DEBUG | product_hunt_client:fetch_top_products:15 - 准备从Product Hunt RSS获取热门产品。
+2024-11-28 05:51:35 | ERROR | product_hunt_client:fetch_top_products:26 - 获取Product Hunt RSS feed失败：403 Client Error: Forbidden for url: https://www.producthunt.com/feed
+2024-11-28 05:51:35 | WARNING | product_hunt_client:export_top_products:96 - 未找到任何Product Hunt的产品。
+2024-11-28 05:57:51 | DEBUG | product_hunt_client:export_top_products:92 - 准备导出Product Hunt的热门产品。
+2024-11-28 05:57:51 | DEBUG | product_hunt_client:fetch_top_products:15 - 准备从Product Hunt RSS获取热门产品。
+2024-11-28 05:57:52 | ERROR | product_hunt_client:fetch_top_products:26 - 获取Product Hunt RSS feed失败：403 Client Error: Forbidden for url: https://www.producthunt.com/feed
+2024-11-28 05:57:52 | WARNING | product_hunt_client:export_top_products:96 - 未找到任何Product Hunt的产品。
+2024-11-28 06:02:05 | DEBUG | product_hunt_client:export_top_products:92 - 准备导出Product Hunt的热门产品。
+2024-11-28 06:02:05 | DEBUG | product_hunt_client:fetch_top_products:15 - 准备从Product Hunt RSS获取热门产品。
+2024-11-28 06:02:06 | ERROR | product_hunt_client:fetch_top_products:26 - 获取Product Hunt RSS feed失败：403 Client Error: Forbidden for url: https://www.producthunt.com/feed
+2024-11-28 06:02:06 | WARNING | product_hunt_client:export_top_products:96 - 未找到任何Product Hunt的产品。
+2024-11-28 06:02:24 | DEBUG | product_hunt_client:export_top_products:92 - 准备导出Product Hunt的热门产品。
+2024-11-28 06:02:24 | DEBUG | product_hunt_client:fetch_top_products:15 - 准备从Product Hunt RSS获取热门产品。
+2024-11-28 06:02:24 | ERROR | product_hunt_client:fetch_top_products:26 - 获取Product Hunt RSS feed失败：403 Client Error: Forbidden for url: https://www.producthunt.com/feed
+2024-11-28 06:02:24 | WARNING | product_hunt_client:export_top_products:96 - 未找到任何Product Hunt的产品。
+2024-11-28 06:02:54 | DEBUG | product_hunt_client:export_top_products:92 - 准备导出Product Hunt的热门产品。
+2024-11-28 06:02:54 | DEBUG | product_hunt_client:fetch_top_products:15 - 准备从Product Hunt RSS获取热门产品。
+2024-11-28 06:02:55 | ERROR | product_hunt_client:fetch_top_products:26 - 获取Product Hunt RSS feed失败：403 Client Error: Forbidden for url: https://www.producthunt.com/feed
+2024-11-28 06:02:55 | WARNING | product_hunt_client:export_top_products:96 - 未找到任何Product Hunt的产品。
+2024-11-28 06:04:09 | DEBUG | product_hunt_client:export_top_products:92 - 准备导出Product Hunt的热门产品。
+2024-11-28 06:04:10 | DEBUG | product_hunt_client:fetch_top_products:15 - 准备从Product Hunt RSS获取热门产品。
+2024-11-28 06:04:37 | ERROR | product_hunt_client:fetch_top_products:26 - 获取Product Hunt RSS feed失败：403 Client Error: Forbidden for url: https://www.producthunt.com/feed
+2024-11-28 06:04:37 | WARNING | product_hunt_client:export_top_products:96 - 未找到任何Product Hunt的产品。
+2024-11-28 07:21:54 | ERROR | main:generate_ph_hour_topic:151 - 生成 Product Hunt 话题报告时发生错误：'JiqizhixinClient' object has no attribute 'export_top_products'
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:export_articles:86 - 准备导出机器之心的文章。
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:fetch_articles:16 - 准备从机器之心 RSS 获取文章。
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:29 - 解析机器之心 RSS feed 内容。
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：准确率84.09%，腾讯AI Lab发布Interformer，用于蛋白质-配体对接及亲和力预测，登Nature子刊
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：谷歌推出 Caravan MultiMet，利用各种气象数据增强水文预报
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：向量数据库的中场战事：长期主义者Zilliz如何全球突围
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：世界首次！智源研究院实现数字孪生心脏电功能超实时仿真
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：12%计算量就能媲美原模型，Adobe、罗切斯特大学等提出YOPO剪枝技术
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：rebuttal真的有用！这篇ICLR论文，所有审稿人都加了2分，直接跃升排名第9
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：LLM破局泛化诊断难题，MSSP刊登北航PHM实验室健康管理大模型交叉研究
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，Ilya的Seq2Seq、Ian的GAN获NeurIPS时间检验奖
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Scaling Law 撞墙？复旦团队大模型推理新思路：Two-Player架构打破自我反思瓶颈
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：昆仑万维「天工大模型4.0」o1版（Skywork o1）正式启动邀请测试
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，OpenAI员工的套现机会来了！可通过要约收购向软银出售15亿美元股权
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：压缩率达10的48次方，实现蛋白序列空间极端压缩，清华EvoAI登Nature子刊
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：国产大模型首发中文逻辑推理，「天工大模型4.0」o1版来了
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：遗憾不？原来百度2017年就研究过Scaling Law，连Anthropic CEO灵感都来自百度
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：HuggingFace工程师亲授：如何在Transformer中实现最好的位置编码
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：跨模态大升级！少量数据高效微调，LLM教会CLIP玩转复杂文本
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Sora就这么泄露了三小时，网友调侃Altman急拔网线，艺术家们也在抗议被「白嫖」
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Runway和Luma又开始对掐！一手实测全新功能，谁能胜出？
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：6.85亿次AI加速模拟，分析2万种材料，Meta发布催化剂数据集OCx24
+2024-11-28 07:22:43 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：创业一年半，胖了30斤，AI大佬感叹：还是回谷歌好
+2024-11-28 07:22:43 | INFO | jiqizhixin_client:parse_feed:81 - 成功解析 20 篇机器之心文章。
+2024-11-28 07:22:43 | INFO | jiqizhixin_client:export_articles:114 - 机器之心文章文件生成：jiqizhixin/2024-11-28/07.md
+2024-11-28 07:27:33 | DEBUG | jiqizhixin_client:export_articles:86 - 准备导出机器之心的文章。
+2024-11-28 07:27:33 | DEBUG | jiqizhixin_client:fetch_articles:16 - 准备从机器之心 RSS 获取文章。
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:29 - 解析机器之心 RSS feed 内容。
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：准确率84.09%，腾讯AI Lab发布Interformer，用于蛋白质-配体对接及亲和力预测，登Nature子刊
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：谷歌推出 Caravan MultiMet，利用各种气象数据增强水文预报
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：向量数据库的中场战事：长期主义者Zilliz如何全球突围
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：世界首次！智源研究院实现数字孪生心脏电功能超实时仿真
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：12%计算量就能媲美原模型，Adobe、罗切斯特大学等提出YOPO剪枝技术
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：rebuttal真的有用！这篇ICLR论文，所有审稿人都加了2分，直接跃升排名第9
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：LLM破局泛化诊断难题，MSSP刊登北航PHM实验室健康管理大模型交叉研究
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，Ilya的Seq2Seq、Ian的GAN获NeurIPS时间检验奖
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Scaling Law 撞墙？复旦团队大模型推理新思路：Two-Player架构打破自我反思瓶颈
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：昆仑万维「天工大模型4.0」o1版（Skywork o1）正式启动邀请测试
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，OpenAI员工的套现机会来了！可通过要约收购向软银出售15亿美元股权
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：压缩率达10的48次方，实现蛋白序列空间极端压缩，清华EvoAI登Nature子刊
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：国产大模型首发中文逻辑推理，「天工大模型4.0」o1版来了
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：遗憾不？原来百度2017年就研究过Scaling Law，连Anthropic CEO灵感都来自百度
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：HuggingFace工程师亲授：如何在Transformer中实现最好的位置编码
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：跨模态大升级！少量数据高效微调，LLM教会CLIP玩转复杂文本
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Sora就这么泄露了三小时，网友调侃Altman急拔网线，艺术家们也在抗议被「白嫖」
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Runway和Luma又开始对掐！一手实测全新功能，谁能胜出？
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：6.85亿次AI加速模拟，分析2万种材料，Meta发布催化剂数据集OCx24
+2024-11-28 07:27:34 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：创业一年半，胖了30斤，AI大佬感叹：还是回谷歌好
+2024-11-28 07:27:34 | INFO | jiqizhixin_client:parse_feed:81 - 成功解析 20 篇机器之心文章。
+2024-11-28 07:27:34 | INFO | jiqizhixin_client:export_articles:114 - 机器之心文章文件生成：jiqizhixin/2024-11-28/07.md
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:export_articles:86 - 准备导出机器之心的文章。
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:fetch_articles:16 - 准备从机器之心 RSS 获取文章。
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:29 - 解析机器之心 RSS feed 内容。
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：准确率84.09%，腾讯AI Lab发布Interformer，用于蛋白质-配体对接及亲和力预测，登Nature子刊
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：谷歌推出 Caravan MultiMet，利用各种气象数据增强水文预报
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：向量数据库的中场战事：长期主义者Zilliz如何全球突围
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：世界首次！智源研究院实现数字孪生心脏电功能超实时仿真
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：12%计算量就能媲美原模型，Adobe、罗切斯特大学等提出YOPO剪枝技术
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：rebuttal真的有用！这篇ICLR论文，所有审稿人都加了2分，直接跃升排名第9
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：LLM破局泛化诊断难题，MSSP刊登北航PHM实验室健康管理大模型交叉研究
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，Ilya的Seq2Seq、Ian的GAN获NeurIPS时间检验奖
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Scaling Law 撞墙？复旦团队大模型推理新思路：Two-Player架构打破自我反思瓶颈
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：昆仑万维「天工大模型4.0」o1版（Skywork o1）正式启动邀请测试
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，OpenAI员工的套现机会来了！可通过要约收购向软银出售15亿美元股权
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：压缩率达10的48次方，实现蛋白序列空间极端压缩，清华EvoAI登Nature子刊
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：国产大模型首发中文逻辑推理，「天工大模型4.0」o1版来了
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：遗憾不？原来百度2017年就研究过Scaling Law，连Anthropic CEO灵感都来自百度
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：HuggingFace工程师亲授：如何在Transformer中实现最好的位置编码
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：跨模态大升级！少量数据高效微调，LLM教会CLIP玩转复杂文本
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Sora就这么泄露了三小时，网友调侃Altman急拔网线，艺术家们也在抗议被「白嫖」
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Runway和Luma又开始对掐！一手实测全新功能，谁能胜出？
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：6.85亿次AI加速模拟，分析2万种材料，Meta发布催化剂数据集OCx24
+2024-11-28 07:36:11 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：创业一年半，胖了30斤，AI大佬感叹：还是回谷歌好
+2024-11-28 07:36:11 | INFO | jiqizhixin_client:parse_feed:81 - 成功解析 20 篇机器之心文章。
+2024-11-28 07:36:11 | INFO | jiqizhixin_client:export_articles:114 - 机器之心文章文件生成：jiqizhixin/2024-11-28/07.md
+2024-11-28 07:36:35 | INFO | main:generate_ph_hour_topic:202 - 报告已保存: reports/2024-11-28/trend_analysis_07.md
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:export_articles:86 - 准备导出机器之心的文章。
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:fetch_articles:16 - 准备从机器之心 RSS 获取文章。
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:29 - 解析机器之心 RSS feed 内容。
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：准确率84.09%，腾讯AI Lab发布Interformer，用于蛋白质-配体对接及亲和力预测，登Nature子刊
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：谷歌推出 Caravan MultiMet，利用各种气象数据增强水文预报
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：向量数据库的中场战事：长期主义者Zilliz如何全球突围
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：世界首次！智源研究院实现数字孪生心脏电功能超实时仿真
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：12%计算量就能媲美原模型，Adobe、罗切斯特大学等提出YOPO剪枝技术
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：rebuttal真的有用！这篇ICLR论文，所有审稿人都加了2分，直接跃升排名第9
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：LLM破局泛化诊断难题，MSSP刊登北航PHM实验室健康管理大模型交叉研究
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，Ilya的Seq2Seq、Ian的GAN获NeurIPS时间检验奖
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Scaling Law 撞墙？复旦团队大模型推理新思路：Two-Player架构打破自我反思瓶颈
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：昆仑万维「天工大模型4.0」o1版（Skywork o1）正式启动邀请测试
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，OpenAI员工的套现机会来了！可通过要约收购向软银出售15亿美元股权
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：压缩率达10的48次方，实现蛋白序列空间极端压缩，清华EvoAI登Nature子刊
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：国产大模型首发中文逻辑推理，「天工大模型4.0」o1版来了
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：遗憾不？原来百度2017年就研究过Scaling Law，连Anthropic CEO灵感都来自百度
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：HuggingFace工程师亲授：如何在Transformer中实现最好的位置编码
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：跨模态大升级！少量数据高效微调，LLM教会CLIP玩转复杂文本
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Sora就这么泄露了三小时，网友调侃Altman急拔网线，艺术家们也在抗议被「白嫖」
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Runway和Luma又开始对掐！一手实测全新功能，谁能胜出？
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：6.85亿次AI加速模拟，分析2万种材料，Meta发布催化剂数据集OCx24
+2024-11-28 07:37:18 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：创业一年半，胖了30斤，AI大佬感叹：还是回谷歌好
+2024-11-28 07:37:18 | INFO | jiqizhixin_client:parse_feed:81 - 成功解析 20 篇机器之心文章。
+2024-11-28 07:37:18 | INFO | jiqizhixin_client:export_articles:114 - 机器之心文章文件生成：jiqizhixin/2024-11-28/07.md
+2024-11-28 07:38:37 | INFO | main:generate_ph_hour_topic:202 - 报告已保存: reports/2024-11-28/trend_analysis_07.md
+2024-11-28 07:51:15 | DEBUG | jiqizhixin_client:export_articles:86 - 准备导出机器之心的文章。
+2024-11-28 07:51:15 | DEBUG | jiqizhixin_client:fetch_articles:16 - 准备从机器之心 RSS 获取文章。
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:29 - 解析机器之心 RSS feed 内容。
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：准确率84.09%，腾讯AI Lab发布Interformer，用于蛋白质-配体对接及亲和力预测，登Nature子刊
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：谷歌推出 Caravan MultiMet，利用各种气象数据增强水文预报
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：向量数据库的中场战事：长期主义者Zilliz如何全球突围
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：世界首次！智源研究院实现数字孪生心脏电功能超实时仿真
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：12%计算量就能媲美原模型，Adobe、罗切斯特大学等提出YOPO剪枝技术
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：rebuttal真的有用！这篇ICLR论文，所有审稿人都加了2分，直接跃升排名第9
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：LLM破局泛化诊断难题，MSSP刊登北航PHM实验室健康管理大模型交叉研究
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，Ilya的Seq2Seq、Ian的GAN获NeurIPS时间检验奖
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Scaling Law 撞墙？复旦团队大模型推理新思路：Two-Player架构打破自我反思瓶颈
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：昆仑万维「天工大模型4.0」o1版（Skywork o1）正式启动邀请测试
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，OpenAI员工的套现机会来了！可通过要约收购向软银出售15亿美元股权
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：压缩率达10的48次方，实现蛋白序列空间极端压缩，清华EvoAI登Nature子刊
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：国产大模型首发中文逻辑推理，「天工大模型4.0」o1版来了
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：遗憾不？原来百度2017年就研究过Scaling Law，连Anthropic CEO灵感都来自百度
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：HuggingFace工程师亲授：如何在Transformer中实现最好的位置编码
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：跨模态大升级！少量数据高效微调，LLM教会CLIP玩转复杂文本
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Sora就这么泄露了三小时，网友调侃Altman急拔网线，艺术家们也在抗议被「白嫖」
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Runway和Luma又开始对掐！一手实测全新功能，谁能胜出？
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：6.85亿次AI加速模拟，分析2万种材料，Meta发布催化剂数据集OCx24
+2024-11-28 07:51:16 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：创业一年半，胖了30斤，AI大佬感叹：还是回谷歌好
+2024-11-28 07:51:16 | INFO | jiqizhixin_client:parse_feed:81 - 成功解析 20 篇机器之心文章。
+2024-11-28 07:51:16 | INFO | jiqizhixin_client:export_articles:114 - 机器之心文章文件生成：jiqizhixin/2024-11-28/07.md
+2024-11-28 07:51:16 | ERROR | jiqizhixin_client:generate_jixiezhixin_topic:154 - 获取模型配置失败: name 'load_models_from_yaml' is not defined
+2024-11-28 07:56:58 | DEBUG | jiqizhixin_client:export_articles:86 - 准备导出机器之心的文章。
+2024-11-28 07:56:58 | DEBUG | jiqizhixin_client:fetch_articles:16 - 准备从机器之心 RSS 获取文章。
+2024-11-28 07:56:58 | DEBUG | jiqizhixin_client:parse_feed:29 - 解析机器之心 RSS feed 内容。
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：官宣开源 阿里云与清华大学共建AI大模型推理项目Mooncake
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：准确率84.09%，腾讯AI Lab发布Interformer，用于蛋白质-配体对接及亲和力预测，登Nature子刊
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：谷歌推出 Caravan MultiMet，利用各种气象数据增强水文预报
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：向量数据库的中场战事：长期主义者Zilliz如何全球突围
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：世界首次！智源研究院实现数字孪生心脏电功能超实时仿真
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：12%计算量就能媲美原模型，Adobe、罗切斯特大学等提出YOPO剪枝技术
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：rebuttal真的有用！这篇ICLR论文，所有审稿人都加了2分，直接跃升排名第9
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：LLM破局泛化诊断难题，MSSP刊登北航PHM实验室健康管理大模型交叉研究
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，Ilya的Seq2Seq、Ian的GAN获NeurIPS时间检验奖
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Scaling Law 撞墙？复旦团队大模型推理新思路：Two-Player架构打破自我反思瓶颈
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：昆仑万维「天工大模型4.0」o1版（Skywork o1）正式启动邀请测试
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：刚刚，OpenAI员工的套现机会来了！可通过要约收购向软银出售15亿美元股权
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：压缩率达10的48次方，实现蛋白序列空间极端压缩，清华EvoAI登Nature子刊
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：国产大模型首发中文逻辑推理，「天工大模型4.0」o1版来了
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：遗憾不？原来百度2017年就研究过Scaling Law，连Anthropic CEO灵感都来自百度
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：HuggingFace工程师亲授：如何在Transformer中实现最好的位置编码
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：跨模态大升级！少量数据高效微调，LLM教会CLIP玩转复杂文本
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Sora就这么泄露了三小时，网友调侃Altman急拔网线，艺术家们也在抗议被「白嫖」
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：Runway和Luma又开始对掐！一手实测全新功能，谁能胜出？
+2024-11-28 07:56:59 | DEBUG | jiqizhixin_client:parse_feed:69 - 成功解析文章：6.85亿次AI加速模拟，分析2万种材料，Meta发布催化剂数据集OCx24
+2024-11-28 07:56:59 | INFO | jiqizhixin_client:parse_feed:81 - 成功解析 20 篇机器之心文章。
+2024-11-28 07:56:59 | INFO | jiqizhixin_client:export_articles:114 - 机器之心文章文件生成：jiqizhixin/2024-11-28/07.md
+2024-11-28 07:56:59 | ERROR | jiqizhixin_client:generate_jixiezhixin_topic:188 - API 调用失败: name 'client' is not defined
+2024-11-28 08:14:09 | DEBUG | jiqizhixin_client:export_articles:88 - 准备导出机器之心的文章。
+2024-11-28 08:14:09 | DEBUG | jiqizhixin_client:fetch_articles:18 - 准备从机器之心 RSS 获取文章。
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:31 - 解析机器之心 RSS feed 内容。
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：官宣开源 阿里云与清华大学共建AI大模型推理项目Mooncake
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：准确率84.09%，腾讯AI Lab发布Interformer，用于蛋白质-配体对接及亲和力预测，登Nature子刊
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：谷歌推出 Caravan MultiMet，利用各种气象数据增强水文预报
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：向量数据库的中场战事：长期主义者Zilliz如何全球突围
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：世界首次！智源研究院实现数字孪生心脏电功能超实时仿真
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：12%计算量就能媲美原模型，Adobe、罗切斯特大学等提出YOPO剪枝技术
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：rebuttal真的有用！这篇ICLR论文，所有审稿人都加了2分，直接跃升排名第9
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：LLM破局泛化诊断难题，MSSP刊登北航PHM实验室健康管理大模型交叉研究
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：刚刚，Ilya的Seq2Seq、Ian的GAN获NeurIPS时间检验奖
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：Scaling Law 撞墙？复旦团队大模型推理新思路：Two-Player架构打破自我反思瓶颈
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：昆仑万维「天工大模型4.0」o1版（Skywork o1）正式启动邀请测试
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：刚刚，OpenAI员工的套现机会来了！可通过要约收购向软银出售15亿美元股权
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：压缩率达10的48次方，实现蛋白序列空间极端压缩，清华EvoAI登Nature子刊
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：国产大模型首发中文逻辑推理，「天工大模型4.0」o1版来了
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：遗憾不？原来百度2017年就研究过Scaling Law，连Anthropic CEO灵感都来自百度
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：HuggingFace工程师亲授：如何在Transformer中实现最好的位置编码
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：跨模态大升级！少量数据高效微调，LLM教会CLIP玩转复杂文本
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：Sora就这么泄露了三小时，网友调侃Altman急拔网线，艺术家们也在抗议被「白嫖」
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：Runway和Luma又开始对掐！一手实测全新功能，谁能胜出？
+2024-11-28 08:14:10 | DEBUG | jiqizhixin_client:parse_feed:71 - 成功解析文章：6.85亿次AI加速模拟，分析2万种材料，Meta发布催化剂数据集OCx24
+2024-11-28 08:14:10 | INFO | jiqizhixin_client:parse_feed:83 - 成功解析 20 篇机器之心文章。
+2024-11-28 08:14:10 | INFO | jiqizhixin_client:export_articles:116 - 机器之心文章文件生成：jiqizhixin/2024-11-28/08.md
+2024-11-28 08:14:35 | INFO | main:generate_jixiezhixin_topic:202 - 报告已保存: reports/2024-11-28/trend_analysis_08.md
